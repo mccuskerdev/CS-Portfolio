@@ -1,4 +1,4 @@
-# CS-Portfolio
+
 # CS210-Portfolio: CornerGrocer Project
 
 This repository contains my **CornerGrocer project** for CS 210. The project demonstrates my ability to write well-documented and readable C++ code, design functional programs, and solve real-world problems using programming concepts.
